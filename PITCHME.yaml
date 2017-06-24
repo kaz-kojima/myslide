@@ -15,8 +15,8 @@ footnote : "© 2017 sample Inc."
 slide-number: true
 
 #コードのシンタックスハイライトの設定
-highlight : monokai
-
+#highlight : monokai
+highlight : mono-blue
 
 #スライド自動再生の設定
 #autoslide : 5000
