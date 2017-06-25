@@ -59,7 +59,7 @@ console.log( str3 );
 ### 5枚目のスライド
 
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:##e49436">Git</span>Pitch</span>!
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:#e49436">Git</span>Pitch</span>!
 
 Hello, World!
 <br><br><br>
