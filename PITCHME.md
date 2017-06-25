@@ -93,4 +93,13 @@ Visit the <a href="https://github.com" target="_blank">GitPitch</a> website.
 </div>
 
 ---
+
+
+
+### 7枚目のスライド-動画
+
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
+
+---
 ### おわり
