@@ -86,5 +86,11 @@ Visit the <a href="https://github.com" target="_blank">GitPitch</a> website.
 <span style='color: #33ff00'>字</span>
 </div>
 
+<br>
+
+<div style='font-family: "Meiryo UI"; font-size: 60px; font-weight:bold; '>
+期待値が高い
+</div>
+
 ---
 ### おわり
