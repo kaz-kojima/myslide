@@ -86,16 +86,16 @@ Visit the <a href="https://github.com" target="_blank">GitPitch</a> website.
 <span style='color: #33ff00'>字</span>
 </div>
 
-<br>
-
-<div style='font-family: "Meiryo UI"; font-size: 60px; font-weight:bold; '>
-期待値が高い
-</div>
+#<br>
+#
+#<div style='font-family: "Meiryo UI"; font-size: 60px; font-weight:bold; '>
+#期待値が高い
+#</div>
 
 <br>
 
 <div style='font-family: "Meiryo UI"; font-size: 240px; font-weight:bold; style='color: #0000ff'>
-期待値が高い
+青色で表示されるかな
 </div>
 
 ---
